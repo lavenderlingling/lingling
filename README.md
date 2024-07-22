@@ -6,6 +6,7 @@ Pandas：用於處理數據和將提取的表格轉換成 DataFrame 對象，以
 使用的方法：
 
 提取表格數據：
+
 使用 pdfplumber.open() 打開 PDF 文件。
 遍歷每一頁，使用 page.extract_table() 方法提取每頁的表格數據。
 將提取的表格數據轉換為 Pandas DataFrame。
