@@ -8,11 +8,11 @@
 - [PDF Text Content Processing | PDF 文本內容處理](#PDF-Text-Content-Processing--PDF-文本內容處理)
   - [表格內容_pdfplumber.ipynb Functionality | 表格內容_pdfplumber.ipynb 功能](#表格內容_pdfplumber.ipynb-Functionality--表格內容_pdfplumber.ipynb-功能)
   - [Technologies Used of PDF | PDF 使用技術](#Technologies-Used-of-PDF--PDF-使用技術)
-  - [Methods Used for PDF: Program Logic | PDF 使用的方法：程式邏輯](#Methods-Used-for-PDF:Program-Logic--PDF-使用的方法：程式邏輯)
+  - [Methods Used for PDF: Program Logic | PDF 使用的方法：程式邏輯](#Methods-Used-for-PDF:Program-Logic--PDF-使用的方法:程式邏輯)
 - [Convert Excel Table to Dictionar | Excel表格轉字典](#Convert-Excel-Table-to-Dictionar-Excel表格轉字典)
   - [Excel_函式.ipynb Functionality | Excel_函式.ipynb 功能](#Excel_函式.ipynb-Functionality--Excel_函式.ipynb-功能)
   - [Technologies Used for Excel | Excel 使用技術](#Technologies-Used-for-Excel--Excel-使用技術)
-  - [Excel Code Explanation: Program Logic | Excel 程式碼說明：程式邏輯](#Excel-Code-Explanation:Program-Logic--Excel-程式碼說明：程式邏輯)
+  - [Excel Code Explanation: Program Logic | Excel 程式碼說明：程式邏輯](#Excel-Code-Explanation:Program-Logic--Excel-程式碼說明:程式邏輯)
   - [Final Results | 最終成果](#Final-Results--最終成果)
 
 ## PDF Text Content Processing | PDF 文本內容處理
